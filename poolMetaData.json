@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "SaturnStakePool",
+"description": "Pool made for supporting the network",
+"ticker": "SSP",
+"homepage": "https://saturnstakepool.wixsite.com/site"
+}
+EOF
